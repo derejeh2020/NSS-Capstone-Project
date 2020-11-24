@@ -9,6 +9,6 @@ Data Question
 3. Can we detect cascading failures as delays in one airport create delays in others?
 4. How does flight patterns change before and after 9/11?
 5.How does flight patterns change before and after Covid-19?
-Note: The first four data questions are taken from the data source
+
 
 
