@@ -15,6 +15,10 @@ Minimum Viable Product (MVP)
 
    The MVP for this Capstone Project would be to deliver a detailed analysis report and an executive summary for Us commercial airlines to show the major areas of focus to increase On-Time Performance and minimize delays.
 
+Data Sources
+
+The primary source would be Airline and Airports dataset from the Bureau of Transportation Statistics. Other data sources would be used as needed to support the analysis.
+
 
 
 
