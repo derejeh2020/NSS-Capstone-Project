@@ -11,4 +11,11 @@ Data QuestionS
 5. How does flight patterns change before and after Covid-19?
 
 
+Minimum Viable Product (MVP)
+
+   The MVP for this Capstone Project would be to deliver a detailed analysis report and an executive summary for Us commercial airlines to show the major areas of focus to increase On-Time Performance and minimize delays.
+
+
+
+
 
