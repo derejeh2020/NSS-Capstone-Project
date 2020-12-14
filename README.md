@@ -19,6 +19,14 @@ Data Sources
 
 The primary source would be Airline and Airports dataset from the Bureau of Transportation Statistics. Other data sources would be used as needed to support the analysis.
 
+Technologies used:-
+  sql( postgressql)
+  python, 
+  Power BI
+  Tableau
+  excel power query
+  
+
 
 
 
